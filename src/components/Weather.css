@@ -1,0 +1,54 @@
+.weather {
+  width: 50%;
+  padding: 15px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  background-color: #e5e5e5;
+  text-align: center;
+  color: #14213d;
+  display: flex;
+  flex-direction: column;
+}
+
+.weather > .weather-data {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+}
+/*** Handle the left side ***/
+
+.weather > .weather-data > .weather-data-left {
+  flex: 1;
+}
+
+.weather > .weather-data > .weather-data-left > .weather-status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.weather-data-left {
+  text-align: left;
+}
+.weather-data-left h4 {
+  margin-top: 15px;
+  margin-bottom: 7px;
+}
+
+/*** Handle the right side ***/
+.weather > .weather-data > .weather-data-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: center;
+}
+
+.weather > .weather-data > .weather-data-right p {
+  margin-bottom: 7px;
+  font-weight: 600;
+}
