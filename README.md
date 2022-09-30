@@ -11,3 +11,5 @@
 ## 4- fine now youn can run the app by typing (npm | yarn) start.
 
 ## 5- enter any name of city or a country to get all the weather data
+
+### eltaeif houssem
