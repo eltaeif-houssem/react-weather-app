@@ -1,4 +1,4 @@
-# Wether app using react with the openweathermap api
+# Weather app using react with the openweathermap api
 
 # you can simply clone the project then:
 
