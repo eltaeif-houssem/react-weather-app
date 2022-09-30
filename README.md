@@ -6,9 +6,9 @@
 
 ## 2- open terminal and run (npm install | yarn)
 
-## 3- if you install all the dependencies then you're okay!
+## 3- if the installation of the dependencies completed then you're okay!
 
-## 4- fine now youn can run the app by typing (npm | yarn) start.
+## 4- fine now you can run the app by typing (npm | yarn) start.
 
 ## 5- enter any name of city or a country to get all the weather data
 
